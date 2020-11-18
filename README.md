@@ -16,6 +16,16 @@
 3. paste the lua code from lua.json to the board
 4. enjoy :)
 
+## how to configure
+
+after you pasted the code go to `unit` > `start` and there you can change the following code with your own colors:
+```lua
+buttonColor = '#eeecc0'
+onColor = 'green' 
+offColor = 'red'
+```
+
+
 ## How to use
 
 click on `on` / `off` to toggle the anti-gravity core.
