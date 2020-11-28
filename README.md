@@ -30,4 +30,4 @@ offColor = 'red'
 
 click on `on` / `off` to toggle the anti-gravity core.
 
-click on the buttons to change to height.
+click on the buttons to change the height.
